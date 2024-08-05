@@ -7,8 +7,8 @@ Recently Twitter has stopped giving their Apis to everyone, So I write simple Py
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="128">
+  <a href="https://github.com/si72rose/Tweets-Scraper-twitter-Selenium">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="128">
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Tweets Scraper from twitter in Python</a> <br>
@@ -36,10 +36,10 @@ Recently Twitter has stopped giving their Apis to everyone, So I write simple Py
 
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium/blob/master/4.jpg)
+![Code](https://github.com/si72rose/Tweets-Scraper-twitter-Selenium/blob/master/4.jpg)
 
 ## Output Data
-![Output-Data](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium/blob/master/1.PNG)
+![Output-Data](https://github.com/si72rose/Tweets-Scraper-twitter-Selenium/blob/master/1.PNG)
 
 
 ### Built With
@@ -53,7 +53,7 @@ Recently Twitter has stopped giving their Apis to everyone, So I write simple Py
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/LinkedIn-Jobs-Scraper.git
+git clone https://github.com/si72rose/LinkedIn-Jobs-Scraper.git
 ```
 
 2. Install python packages
@@ -80,7 +80,7 @@ Twitter allows seeing only the recent 300 tweets from any user. In order to acce
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Tweets-Scraper-twitter-Selenium/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/si72rose/Tweets-Scraper-twitter-Selenium/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -104,19 +104,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <tr>
     <th>
       <ahref="http://zeeshanahmad.me/" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
  </a> </th>
     <th>
       <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit41.jpg" alt="Logo" width="182  " height="90">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/edit41.jpg" alt="Logo" width="182  " height="90">
  </a> </th>
     </tr>
  </table>
@@ -124,19 +124,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <tr>
     <th>
       <a href="https://www.upwork.com/freelancers/~0180a61cf01f9bc71d" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
       <a href="https://www.linkedin.com/in/zeeshan-ahmad-87098b105/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="80">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
-      <a href="https://www.kaggle.com/zeeshanahmad4">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="80">
+      <a href="https://www.kaggle.com/si72rose">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="80">
  </a> </th>
     <th>
       <a href="https://twitter.com/Zeeshan_Ahmad6">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="80">
+    <img src="https://github.com/si72rose/My-Path-to-Python/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="80">
  </a> </th>
     </tr>
  </table>
